@@ -1,0 +1,8 @@
+Reflections lesson 2
+
+What happens when you initialize a repository? Why do you need to do it?
+No commits are created. I don't know why..
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+You don't directly modify anything in the staging area and it is not a final version of what you want to commit in the respository
+It offers the posibility to change the version of the files you want to commit before you do that
