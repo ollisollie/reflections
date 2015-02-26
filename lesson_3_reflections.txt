@@ -9,3 +9,6 @@ forks: remote copy
 clones: copy to local
 branches: the "group" of commits you wanna clone/fork
 You use fork when the changes are done in GitHub; clones when you want to copy something and the local is involved; branches is the location or "group of commits" you wanna clone
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+you don't lose the changes
